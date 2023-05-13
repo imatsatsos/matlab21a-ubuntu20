@@ -1,6 +1,6 @@
 # MATLAB R2021a Ubuntu 20.04 dependencies script
   
-This script installs all the necessary dependencies for MATLAB R2021a to be installed and run on a Ubuntu 20.04 system.
+This script installs all the necessary dependencies for MATLAB R2021a to be installed and run on an Ubuntu 20.04 system.
 The dependencies were sourced from [mathworks-ref-arch/container-images github](https://github.com/mathworks-ref-arch/container-images)  
 
 ## A convenient way of installing MATLAB using the power of containers from the cloud!
